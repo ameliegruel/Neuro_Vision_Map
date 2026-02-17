@@ -474,7 +474,7 @@ institute_info = {
     'Imperial College London': {'lat': 51.4981, 'lon': -0.1773, 'country': 'UK'},
     'CNR-IMM': {'lat': 41.9028, 'lon': 12.4964, 'country': 'Italy'},
     'Hangzhou Dianzi University': {'lat': 30.3197, 'lon': 120.3757, 'country': 'China'},
-    'Université Côte d’Azur': {'lat': 43.7033, 'lon': 7.2672, 'country': 'France'},
+    'Université Côte d’Azur': {'lat': 43.6143, 'lon': 7.0714, 'country': 'France'},
     'Carleton University, Shenzhen University': {'lat': 22.5431, 'lon': 114.0579, 'country': 'China'},
     'Chang’an University': {'lat': 34.2327, 'lon': 108.9287, 'country': 'China'},
     'Beijing Innovation Center of Humanoid Robotics Co. Ltd.': {'lat': 39.9042, 'lon': 116.4074, 'country': 'China'},
